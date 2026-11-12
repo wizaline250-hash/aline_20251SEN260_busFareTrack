@@ -1,7 +1,9 @@
 # BusFareTrack: Public Bus Trip and Fare/Revenue Monitor
 
-**Student:** Uwimana Aline | **ID:** 20251SEN260
-**Course:** INSY 8311 Database Development with PL/SQL (AUCA) | **Instructor:** Eric Maniraguha
+**Student:** Uwimana Aline
+**ID:** 20251SEN260
+**Course:** INSY 8311 Database Development with PL/SQL (AUCA)
+**Instructor:** Eric Maniraguha
 **Repository:** `aline_20251SEN260_busFareTrack`
 
 ## Problem statement
